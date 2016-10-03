@@ -1,0 +1,7 @@
+node_modules
+build
+xeno
+*.bat
+*.log
+*.log.*
+*.DS_Store
